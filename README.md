@@ -1,1 +1,1 @@
-# who
+#. /install.sh.
